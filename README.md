@@ -112,9 +112,9 @@ Current Focus:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afjalk09&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afjalk09&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -122,7 +122,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afjalk09&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -132,7 +132,7 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afjalk09&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -245,7 +245,7 @@ Autonomous Content Creation
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=afjalk09&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" />
 
 </div>
 
@@ -271,15 +271,15 @@ Autonomous Content Creation
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/afjalkhan1704">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/afjalk09">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:afjalkk1704@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -295,7 +295,7 @@ Autonomous Content Creation
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
