@@ -415,7 +415,13 @@
 ---
 
 <br/>
-
+  <div>
+    <picture>
+      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake-dark.svg">
+      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg">
+      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg" alt="GitHub Snake">
+    </picture>
+  </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Building%20the%20future%20with%20AI%2C%20one%20project%20at%20a%20time.&fontSize=18&fontColor=ffffff&fontAlignY=60" width="100%"/>
 </div>
