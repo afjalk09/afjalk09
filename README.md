@@ -396,28 +396,29 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
+</picture>
+
 </div>
 
 <br/>
 
 ---
 
-<br/>
-  <div>
-    <picture>
-      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-snake-dark.svg">
-      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-snake.svg">
-      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/afjalk09/afjalk09/output/github-snake.svg" alt="GitHub Snake">
-    </picture>
-  </div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer&text=Building%20the%20future%20with%20AI%2C%20one%20project%20at%20a%20time.&fontSize=18&fontColor=ffffff&fontAlignY=60" width="100%"/>
-</div>
 
 <div align="center">
   <sub>⭐ Star your favorite repositories to support the work!</sub>
