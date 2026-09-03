@@ -118,25 +118,18 @@
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=afjalk09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=afjalk09&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+<img width="49%" src="./profile/stats.svg" alt="GitHub Stats"/> <img width="49%" src="./profile/top-langs.svg" alt="Top Languages"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afjalk09&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" alt="Top Languages"/>
+
+<img width="98%" src="./profile/activity.svg" alt="GitHub Activity Graph"/>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=afjalk09&bg_color=0D1117&color=00C6FF&line=0072FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-<br/>
-
----
 
 <br/>
 
